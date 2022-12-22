@@ -1,1 +1,1 @@
-version 1 concordance with tests
+version 1 concordance in c with expected input/output files provided.
