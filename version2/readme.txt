@@ -1,4 +1,4 @@
-this direcotry contains three variants of concord. 
+this directory contains three variants of concord version 2. 
 
 -an updated c version with indented output to match concord2 output style, accomapnied with a make fuile for its header files and source code.
 
